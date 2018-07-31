@@ -1,6 +1,7 @@
 package leetcode
 
 //https://leetcode-cn.com/problems/reverse-integer/description/
+//32位可用uint32表示
 func reverse(x int) int {
 	bitCount, factor, result, y1, y2 := 0, 1, 0, x, x
 	for y1 != 0 {
