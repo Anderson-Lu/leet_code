@@ -7,6 +7,10 @@
 
 [https://github.com/Anderson-Lu/leet_code](https://github.com/Anderson-Lu/leet_code)
 
+### 2018-08
+
+【简单】回文数(96毫秒·[代码](https://github.com/Anderson-Lu/leet_code/blob/master/06_palindrome_number.go)) <br>
+
 ### 2018-07
 
 【困难】两个排序数组的中位数(32毫秒·[代码](https://github.com/Anderson-Lu/leet_code/blob/master/05_center_number.go)) <br>
